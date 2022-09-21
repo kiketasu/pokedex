@@ -1,5 +1,6 @@
 # pokedex
-A ver si cambio un par de cosas para hacerla más chula.
+Ejercicio del webinar de Ironhack.
 
-TO DO:
-Cuando se ponga la imagen del pkmn, mostrar su nombre debajo también.
+Implementar mejoras:
+- Mostrar nombre del pkmn cuando se muestre su imagen.
+- Mejorar estilo.
