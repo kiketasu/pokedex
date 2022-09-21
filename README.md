@@ -1,3 +1,5 @@
 # pokedex
-Made it in the Ironhack webinar "Web Development in a remote environment : Intro to Git, with JS, HTML &amp; CSS"
-It is a simple html structure to learn the basics. Also a css for styling concepts and finally a JS to change images. 
+A ver si cambio un par de cosas para hacerla más chula.
+
+TO DO:
+Cuando se ponga la imagen del pkmn, mostrar su nombre debajo también.
